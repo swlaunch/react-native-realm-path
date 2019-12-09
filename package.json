@@ -12,7 +12,7 @@
   "author": "Djorkaeff Alexandre",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "0.60.4"
   },
   "homepage": "https://github.com/rocketchat/react-native-realm-path",
   "repository": "https://github.com/rocketchat/react-native-realm-path"
